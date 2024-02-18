@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2024-02-10T10:44:52.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="a7Frct4IcSmfRXvuLIBc" version="23.0.2" type="device">
+  <diagram name="Página-1" id="0skBFKxMl9puzjLqmwDK">
+    <mxGraphModel dx="1050" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6NQpAo3NC4PquM-5TZD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253.5" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-1" value="&lt;b&gt;Terraform configuration file&lt;/b&gt;&lt;br&gt;assets/Terraform/deploy.tf" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="67" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCA2NCA2NCIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4Ij48cGF0aCBmaWxsPSIjNDA0MEIyIiBkPSJNMzguMDYgMjYuMTUxdjExLjQ3M0w0OCAzMS44OTFWMjAuNDA2bC05Ljk0IDUuNzQ1eiIvPjxwYXRoIGZpbGw9IiM1QzRFRTUiIGQ9Im0yNy4wMyAyMC40MDYgOS45NCA1Ljc0NXYxMS40NzNsLTkuOTQtNS43NFYyMC40MDd6TTE2IDE0djExLjQ3OWw5Ljk0IDUuNzR2LTExLjQ4TDE2IDE0em0xMS4wMyAzMC42MjQgOS45NCA1Ljc0di0xMS40OGwtOS45NC01LjczOXYxMS40OHoiLz48L3N2Zz4=;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="183.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6NQpAo3NC4PquM-5TZD-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-3" value="&lt;b&gt;Hardware to run configuration file&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/laptop-with-code-128.png" vertex="1" parent="1">
+          <mxGeometry x="189.5" y="410" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-7" value="&lt;b&gt;Terraform executable&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;terraform.exe&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6NQpAo3NC4PquM-5TZD-10" target="u6NQpAo3NC4PquM-5TZD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-10" value="&lt;b&gt;Application-Object/Identity on Azure Cloud&lt;/b&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="540" y="201.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="u6NQpAo3NC4PquM-5TZD-1" target="u6NQpAo3NC4PquM-5TZD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6NQpAo3NC4PquM-5TZD-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="882" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-12" value="&lt;b&gt;Subscription&lt;/b&gt;&lt;br&gt;Actual subscription on the Azure Platform&lt;br&gt;and check Role-based access control (IAM) &quot;Contributor&quot;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="860" y="203.5" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6NQpAo3NC4PquM-5TZD-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="882" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-14" value="&lt;b&gt;Resource Group&lt;/b&gt;&lt;br&gt;Register a new Resource-Group/Container &lt;br&gt;that holds related resources for an Azure solution" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="848" y="400" width="68" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="u6NQpAo3NC4PquM-5TZD-16" value="&lt;b&gt;All resources&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/All_Resources.svg;" vertex="1" parent="1">
+          <mxGeometry x="850" y="590" width="64" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
